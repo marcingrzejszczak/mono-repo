@@ -1,0 +1,6 @@
+[submodule "monorepo-github-analytics"]
+	path = monorepo-github-analytics
+	url = https://github.com/marcingrzejszczak/github-analytics.git
+[submodule "monorepo-github-webhook"]
+	path = monorepo-github-webhook
+	url = https://github.com/marcingrzejszczak/github-webhook.git
